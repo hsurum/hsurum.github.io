@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hsurum.github.io/BXu/sitemap.BXu.gz
